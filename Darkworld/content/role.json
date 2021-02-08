@@ -6,6 +6,7 @@
 		"description": "一位优雅的女士",
 		"aspects":{
 			"heart": 12,
+			"noble": 1,
 			"patron": 1
 		},
 		"uniqu": true,

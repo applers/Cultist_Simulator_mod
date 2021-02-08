@@ -1,0 +1,10 @@
+{
+"elements":[
+	{
+		"id": "noble",
+		"label": "贵族",
+		"description": "驾驭欲望之人，皆为贵族",
+		"isAspect": true,
+		"icon": "noble"
+	}
+]}
