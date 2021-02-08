@@ -1,5 +1,6 @@
 
-explain:This is a game mod repository.  
+explain:
+	This is a game mod repository.    
 	[content] file storage JSON format.	  
 	[images] file storage PNG format.  
 Submission instructions:  
